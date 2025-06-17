@@ -1,0 +1,4972 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 5000,
+    "total": 310,
+    "sourceid": "2",
+    "lastupdated": "2025-06-05"
+  },
+  [
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2020",
+      "value": 29123011879.2998,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2019",
+      "value": 48942300762.2452,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2018",
+      "value": 42603762048.5971,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2017",
+      "value": 25357801000.497,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2016",
+      "value": 34201872160.6085,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2015",
+      "value": 59986208237.0735,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2014",
+      "value": 64174605785.6347,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2013",
+      "value": 67027866778.2682,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2012",
+      "value": 49368985104.1991,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2011",
+      "value": 38338330427.428,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2010",
+      "value": 29714744325.4741,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2009",
+      "value": 20951090410.3131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2008",
+      "value": 70119614332.5095,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2007",
+      "value": 120451484862.004,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2006",
+      "value": 64302303096.8668,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2005",
+      "value": 25552226940.9281,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2004",
+      "value": 1452416545.21802,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2003",
+      "value": 7011792709.04631,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2002",
+      "value": 24486425376.8819,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2001",
+      "value": 28391098831.3382,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2000",
+      "value": 68303350856.0836,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1999",
+      "value": 27456044687.0987,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1998",
+      "value": 24979208298.1649,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1997",
+      "value": 15182400421.6905,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1996",
+      "value": 8817677647.2938,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1995",
+      "value": 13657593613.3371,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1994",
+      "value": 9541029101.65658,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1993",
+      "value": 4178460316.69705,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1992",
+      "value": 7018240062.86526,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1991",
+      "value": 3514220103.04375,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1990",
+      "value": 8401707941.43435,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2020",
+      "value": 253095616058.58,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2019",
+      "value": 187169822364.755,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2018",
+      "value": 235365050036.341,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2017",
+      "value": 166083755721.649,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2016",
+      "value": 174749584584.051,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2015",
+      "value": 242489331627.399,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2014",
+      "value": 268097181064.335,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2013",
+      "value": 290928431467.003,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2012",
+      "value": 241213868161.42,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2011",
+      "value": 280072219149.935,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2010",
+      "value": 243703434558.178,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2009",
+      "value": 131057052869.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2008",
+      "value": 171534650311.569,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2007",
+      "value": 156249335203.202,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2006",
+      "value": 124082035618.506,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2005",
+      "value": 104108693867.085,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2004",
+      "value": 68117272181.2194,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2003",
+      "value": 57900937467.3864,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2002",
+      "value": 53073618897.4036,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2001",
+      "value": 47053000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2000",
+      "value": 42095300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1999",
+      "value": 41014000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1998",
+      "value": 45644000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1997",
+      "value": 45439000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1996",
+      "value": 40180000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1995",
+      "value": 35849200000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1994",
+      "value": 33787000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1993",
+      "value": 27515000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1992",
+      "value": 11156000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1991",
+      "value": 4366000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1990",
+      "value": 3487000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2020",
+      "value": 176781024357.228,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2019",
+      "value": 75463438450.8917,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2018",
+      "value": 162250938125.842,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2017",
+      "value": 108786501529.106,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2016",
+      "value": 58132711370.7803,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2015",
+      "value": 62418993509.249,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2014",
+      "value": 17356720097.6155,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2013",
+      "value": 67199694458.9368,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2012",
+      "value": 65443087632.2705,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2011",
+      "value": 97535403952.5493,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2010",
+      "value": 86037502102.1644,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2009",
+      "value": 56701916794.97,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2008",
+      "value": 30954735498.025,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2007",
+      "value": 50847183837.0148,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2006",
+      "value": 87444159239.0628,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2005",
+      "value": 59835195025.1917,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2004",
+      "value": -20408419557.1429,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2003",
+      "value": 65401516009.2493,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2002",
+      "value": 51268214890.6254,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2001",
+      "value": 56948542386.9091,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2000",
+      "value": 248007397121.859,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1999",
+      "value": 86035665071.2096,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1998",
+      "value": 29525738645.9539,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1997",
+      "value": 18638428446.4635,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1996",
+      "value": 15590587107.4243,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1995",
+      "value": 12040789985.3199,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1994",
+      "value": 7517424677.09305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1993",
+      "value": 477658764.448412,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1992",
+      "value": -2137482962.91706,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1991",
+      "value": 4741546058.51119,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1990",
+      "value": 2556702845.61154,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2020",
+      "value": 37683095972.4206,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2019",
+      "value": 30322872791.4496,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2018",
+      "value": 63958429156.7585,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2017",
+      "value": 33577736758.6065,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2016",
+      "value": 44962670965.5697,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2015",
+      "value": 23777330434.0906,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2014",
+      "value": 31972292815.4556,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2013",
+      "value": 47143326585.2816,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2012",
+      "value": 20848479095.5802,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2011",
+      "value": 26832032514.6508,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2010",
+      "value": 36609340306.4933,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2009",
+      "value": 9549813317.16403,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2008",
+      "value": 74088629877.4064,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2007",
+      "value": 68229666915.1456,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2006",
+      "value": 32927841460.4151,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2005",
+      "value": 27007774843.3639,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2004",
+      "value": 25268192650.5771,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2003",
+      "value": 30744905690.6608,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2002",
+      "value": 39359708554.1526,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2001",
+      "value": 28909416991.4693,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2000",
+      "value": 40509751188.4293,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1999",
+      "value": 19628574139.8537,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1998",
+      "value": 15714658309.111,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1997",
+      "value": 9433660064.59714,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1996",
+      "value": 9801379213.11597,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1995",
+      "value": 8281607344.6532,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1994",
+      "value": 8772628136.87355,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1993",
+      "value": 10808165172.6317,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1992",
+      "value": 13275723087.2105,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1991",
+      "value": 12492782828.6164,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1990",
+      "value": 13983611812.0265,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2020",
+      "value": 19368829836.4654,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2019",
+      "value": 53499337503.7413,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2018",
+      "value": 77493098693.2378,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2017",
+      "value": 43733253503.8812,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2016",
+      "value": 35623357280.0881,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2015",
+      "value": 43133325471.3567,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2014",
+      "value": 5063648998.48312,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2013",
+      "value": 33461592993.8228,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2012",
+      "value": 32944663317.8722,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2011",
+      "value": 44205811126.5792,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2010",
+      "value": 38889439213.3126,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2009",
+      "value": 18422928061.9131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2008",
+      "value": 67997446904.9733,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2007",
+      "value": 83777598395.4499,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2006",
+      "value": 78957053786.1349,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2005",
+      "value": 85137061931.2536,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2004",
+      "value": 35608535812.8719,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2003",
+      "value": 42350800678.3509,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2002",
+      "value": 51550483853.8509,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2001",
+      "value": 50142053918.8909,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2000",
+      "value": 41389082664.7628,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1999",
+      "value": 45971216472.0884,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1998",
+      "value": 29518429032.2114,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1997",
+      "value": 23047924754.756,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1996",
+      "value": 21971888803.0024,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1995",
+      "value": 23736300874.0228,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1994",
+      "value": 15797125294.9865,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1993",
+      "value": 20754044035.6782,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1992",
+      "value": 21839501253.074,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1991",
+      "value": 15152742089.8424,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1990",
+      "value": 13183285334.811,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2020",
+      "value": 64362364994.3754,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2019",
+      "value": 50610647353.5912,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2018",
+      "value": 42117450737.2644,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2017",
+      "value": 39966091358.7384,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2016",
+      "value": 44458571545.798,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2015",
+      "value": 44009492129.5319,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2014",
+      "value": 34576643694.1383,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2013",
+      "value": 28153031270.3203,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2012",
+      "value": 23995685014.2142,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2011",
+      "value": 36498654597.8589,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2010",
+      "value": 27396885033.7839,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2009",
+      "value": 35581372929.6642,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2008",
+      "value": 43406277075.8109,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2007",
+      "value": 25227740886.6819,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2006",
+      "value": 20029119267.1396,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2005",
+      "value": 7269407225.61438,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2004",
+      "value": 5429250989.85717,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2003",
+      "value": 3681984671.43429,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2002",
+      "value": 5208967106.27894,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2001",
+      "value": 5128093561.62688,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2000",
+      "value": 3584217307.18756,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1999",
+      "value": 2168591054.37924,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1998",
+      "value": 2634651657.77141,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1997",
+      "value": 3577330042.34585,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1996",
+      "value": 2426057021.91092,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1995",
+      "value": 2143628110.28392,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1994",
+      "value": 973271468.722874,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1993",
+      "value": 550370024.929383,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1992",
+      "value": 276512438.973893,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1991",
+      "value": 73537638.3885329,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1990",
+      "value": 236690000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2020",
+      "value": 2057000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2019",
+      "value": 2234000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2018",
+      "value": 1737000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2017",
+      "value": 2496000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2016",
+      "value": 2576000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2015",
+      "value": 1673000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2014",
+      "value": 1887000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2013",
+      "value": 1333000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2012",
+      "value": 859000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2011",
+      "value": 1326000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2010",
+      "value": 2022000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2009",
+      "value": 2338000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2008",
+      "value": 5438000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2007",
+      "value": 5590000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2006",
+      "value": 4273000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2005",
+      "value": 2201000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2004",
+      "value": 1118000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2003",
+      "value": 534000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2002",
+      "value": 826000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2001",
+      "value": 378000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2000",
+      "value": 308000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1999",
+      "value": 532000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1998",
+      "value": 506000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1997",
+      "value": 716253125.440908,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1996",
+      "value": 921976182.51983,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1995",
+      "value": 722631560.660743,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1994",
+      "value": 421024638.454288,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1993",
+      "value": 348556957.814185,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1992",
+      "value": 336479857.130617,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1991",
+      "value": 258414487.035348,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1990",
+      "value": 245262963.460759,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2020",
+      "value": 20086000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2019",
+      "value": 19012000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2018",
+      "value": 19908000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2017",
+      "value": 12565000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2016",
+      "value": 18060000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2015",
+      "value": 15820000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2014",
+      "value": 20877000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2013",
+      "value": 1342000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2012",
+      "value": 7616000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2011",
+      "value": 18851000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2010",
+      "value": 18861000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2009",
+      "value": 14025000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2008",
+      "value": 14574000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2007",
+      "value": 25031000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2006",
+      "value": 21473000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2005",
+      "value": 11041000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2004",
+      "value": 13868000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2003",
+      "value": 5371000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2002",
+      "value": 4091000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2001",
+      "value": 5677000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2000",
+      "value": 9335000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1999",
+      "value": 7407000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1998",
+      "value": 6383000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1997",
+      "value": 4910000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1996",
+      "value": 4500000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1995",
+      "value": 3659000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1994",
+      "value": 1875000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1993",
+      "value": 1715000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1992",
+      "value": 678000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1991",
+      "value": 291000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1990",
+      "value": 89000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2020",
+      "value": 9478810000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2019",
+      "value": 31974770000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2018",
+      "value": 8784850000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2017",
+      "value": 28557440000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2016",
+      "value": 32538900000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2015",
+      "value": 6852970000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2014",
+      "value": 22031340000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2013",
+      "value": 69218890000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2012",
+      "value": 50587560000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2011",
+      "value": 55083630000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2010",
+      "value": 43167780000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2009",
+      "value": 36583100000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2008",
+      "value": 74782910000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2007",
+      "value": 55873680000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2006",
+      "value": 37594770000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2005",
+      "value": 15508050000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2004",
+      "value": 15402990000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2003",
+      "value": 7928630000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2002",
+      "value": 3473830000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2001",
+      "value": 2847300000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2000",
+      "value": 2678030000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1999",
+      "value": 3256530000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1998",
+      "value": 2761360000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1997",
+      "value": 4864650000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1996",
+      "value": 2579330000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1995",
+      "value": 2065720000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1994",
+      "value": 689570000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1993",
+      "value": 1210782000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1992",
+      "value": 1161000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2020",
+      "value": 137066000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2019",
+      "value": 315984000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2018",
+      "value": 214715000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2017",
+      "value": 380823000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2016",
+      "value": 474388000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2015",
+      "value": 511434000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2014",
+      "value": 251856000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2013",
+      "value": 288131000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2012",
+      "value": 250345000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2011",
+      "value": 263497000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2010",
+      "value": 264039000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2009",
+      "value": 161083000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2008",
+      "value": 341092000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2007",
+      "value": 346613000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2006",
+      "value": 298463000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2005",
+      "value": 142344000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2004",
+      "value": 213641000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2003",
+      "value": 117106000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2002",
+      "value": 111055000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2001",
+      "value": 172496000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2000",
+      "value": 349125000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1999",
+      "value": 312449000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1998",
+      "value": 211150000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1997",
+      "value": 122150000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1996",
+      "value": 97660000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1995",
+      "value": 69080000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1994",
+      "value": 55940000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1993",
+      "value": 50230000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1992",
+      "value": 30310000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1991",
+      "value": 34550000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "BX.KLT.DINV.CD.WD",
+        "value": "Foreign direct investment, net inflows (BoP, current US$)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1990",
+      "value": 71230000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

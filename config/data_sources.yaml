@@ -1,0 +1,47 @@
+geographic:
+  cshapes:
+    # Working CShapes 2.0 from ETH Zurich
+    geojson_url: "https://demo.ldproxy.net/cshapes/collections/cshapes/items?f=json&limit=10000"
+    shapefile_url: "https://icr.ethz.ch/data/cshapes/cshapes_0.6-4.zip"
+    description: "Historical country boundaries 1886-2019"
+  
+  natural_earth:
+    # Fixed Natural Earth URLs (removed double http)
+    countries_110m: "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_countries.zip"
+    countries_50m: "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip"
+    countries_10m: "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_admin_0_countries.zip"
+    disputed_areas: "https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_admin_0_disputed_areas.zip"
+
+  # Backup/Alternative sources
+  geoboundaries:
+    api_base: "https://www.geoboundaries.org/api/current/"
+    description: "Modern administrative boundaries"
+
+economic:
+  world_bank:
+    base_url: "https://api.worldbank.org/v2/"
+    indicators:
+      gdp_per_capita: "NY.GDP.PCAP.CD"
+      trade_percent: "NE.TRD.GNFS.ZS" 
+      external_debt: "DT.DOD.DECT.CD"
+      fdi: "BX.KLT.DINV.CD.WD"
+      military_exp: "MS.MIL.XPND.GD.ZS"
+      population: "SP.POP.TOTL"
+
+political:
+  polity_iv:
+    description: "Democracy/autocracy scores (manual download required)"
+    url: "http://www.systemicpeace.org/inscrdata.html"
+  
+  freedom_house:
+    description: "Freedom in the World scores"
+    manual_download: true
+
+temporal:
+  start_year: 1946
+  end_year: 2019
+  key_periods:
+    post_wwii: "1946-1960"
+    cold_war: "1961-1989" 
+    post_cold_war: "1990-2010"
+    modern: "2011-2019"

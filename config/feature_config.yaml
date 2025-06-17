@@ -1,0 +1,58 @@
+geographic:
+  - border_length_km
+  - border_length_change_pct
+  - river_barrier_percentage
+  - mountain_barrier_percentage  
+  - coastline_ratio
+  - terrain_ruggedness_index
+  - natural_chokepoints_count
+  - border_accessibility_index
+
+economic:
+  - gdp_ratio
+  - gdp_per_capita_ratio
+  - trade_dependency_ratio
+  - economic_development_gap
+  - fdi_flow_ratio
+  - debt_burden_difference
+  - currency_union_membership
+  - trade_agreement_overlap
+
+military:
+  - military_expenditure_ratio
+  - military_personnel_ratio
+  - nuclear_capability_asymmetry
+  - defense_technology_gap
+  - alliance_membership_overlap
+  - security_threat_index
+
+political:
+  - democracy_score_difference
+  - regime_type_compatibility
+  - political_stability_gap
+  - diplomatic_relations_strength
+  - international_org_overlap
+  - treaty_compliance_history
+
+cultural:
+  - language_family_similarity
+  - religious_composition_overlap
+  - ethnic_group_cross_border
+  - cultural_values_distance
+  - historical_ties_index
+  - diaspora_connections
+
+demographic:
+  - population_density_gradient
+  - urban_rural_ratio_difference
+  - age_structure_similarity
+  - migration_flow_intensity
+  - cross_border_families
+
+temporal:
+  - years_since_independence
+  - years_since_last_change
+  - cold_war_period_dummy
+  - post_colonial_period_dummy
+  - conflict_history_count
+  - border_agreement_age

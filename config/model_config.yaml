@@ -1,0 +1,3 @@
+target_variables:
+  - territory_change_km2
+  - border_volatility_index

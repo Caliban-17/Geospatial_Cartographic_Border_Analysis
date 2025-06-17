@@ -1,0 +1,20 @@
+{
+  "description": "Enhanced border change analysis dataset",
+  "source": "Curated sample for testing border analysis pipeline",
+  "features": [
+    "country_pair",
+    "year",
+    "territory_change_km2",
+    "border_length_km",
+    "border_type",
+    "gdp_ratio",
+    "democracy_gap",
+    "military_ratio",
+    "conflict_history",
+    "trade_dependency"
+  ],
+  "records": 10,
+  "country_pairs": 10,
+  "time_span": "1902-1980",
+  "note": "Contains both stable borders (USA-CAN) and volatile borders (IND-PAK)"
+}

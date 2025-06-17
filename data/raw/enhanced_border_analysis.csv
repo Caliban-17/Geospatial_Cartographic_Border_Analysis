@@ -1,0 +1,11 @@
+country_pair,year,territory_change_km2,border_length_km,border_type,gdp_ratio,democracy_gap,military_ratio,conflict_history,trade_dependency
+USA-CAN,1950,0,8891,stable,1.2,0.1,1.5,0,0.85
+DEU-POL,1945,45000,467,post_war,0.3,0.8,0.2,2,0.12
+FRA-ESP,1960,0,623,stable,0.9,0.2,1.1,0,0.45
+CHN-RUS,1970,1200,4209,negotiated,0.1,0.9,0.15,1,0.08
+IND-PAK,1947,0,3323,partition,0.8,0.3,1.2,3,0.05
+KOR-PRK,1953,0,238,armistice,15.0,1.0,20.0,1,0.01
+ISR-PSE,1967,5800,1006,occupation,8.5,0.7,5.0,4,0.02
+GRC-TUR,1923,15000,192,population_exchange,0.6,0.4,0.8,2,0.15
+IRN-IRQ,1980,2400,1458,war,0.3,0.8,0.4,3,0.18
+ARG-CHL,1902,450,5308,arbitration,1.1,0.2,1.3,1,0.25

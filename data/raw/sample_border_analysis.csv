@@ -1,0 +1,6 @@
+country_pair,year,territory_change_km2,border_length_km,gdp_ratio,democracy_gap
+USA-CAN,1950,0,8891,1.2,0.1
+DEU-POL,1945,45000,467,0.3,0.8
+FRA-ESP,1960,0,623,0.9,0.2
+CHN-RUS,1970,1200,4209,0.1,0.9
+IND-PAK,1947,0,3323,0.8,0.3

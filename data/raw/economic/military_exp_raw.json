@@ -1,0 +1,4972 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 5000,
+    "total": 310,
+    "sourceid": "2",
+    "lastupdated": "2025-06-05"
+  },
+  [
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2020",
+      "value": 1.40083568623706,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2019",
+      "value": 1.28451224366918,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2018",
+      "value": 1.3176781061648,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2017",
+      "value": 1.35189646465708,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2016",
+      "value": 1.16416156719089,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2015",
+      "value": 1.15270937445521,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2014",
+      "value": 0.989925299438869,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2013",
+      "value": 1.00236720047397,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2012",
+      "value": 1.11840459807104,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2011",
+      "value": 1.19329189549638,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2010",
+      "value": 1.19433833839121,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2009",
+      "value": 1.37755563107525,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2008",
+      "value": 1.24551836677548,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2007",
+      "value": 1.18579022996702,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2006",
+      "value": 1.12252472932052,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2005",
+      "value": 1.10710542420811,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2004",
+      "value": 1.10418939142687,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2003",
+      "value": 1.11193730688338,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2002",
+      "value": 1.11686914736943,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2001",
+      "value": 1.13335628281332,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "2000",
+      "value": 1.11434980213748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1999",
+      "value": 1.24170306410258,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1998",
+      "value": 1.25629390156868,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1997",
+      "value": 1.24624320151167,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1996",
+      "value": 1.40375258106455,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1995",
+      "value": 1.55409007114777,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1994",
+      "value": 1.69668025731865,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1993",
+      "value": 1.82175350392748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1992",
+      "value": 1.86168769986295,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1991",
+      "value": 1.89544433858064,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CA",
+        "value": "Canada"
+      },
+      "countryiso3code": "CAN",
+      "date": "1990",
+      "value": 1.95879374221417,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2020",
+      "value": 1.75669947098837,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2019",
+      "value": 1.68291101151296,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2018",
+      "value": 1.67357820944542,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2017",
+      "value": 1.71124264388853,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2016",
+      "value": 1.7688865902507,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2015",
+      "value": 1.77677106896806,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2014",
+      "value": 1.73840928794394,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2013",
+      "value": 1.7143409229625,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2012",
+      "value": 1.70094267160117,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2011",
+      "value": 1.65908251595704,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2010",
+      "value": 1.73351986212832,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2009",
+      "value": 1.89352379603523,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2008",
+      "value": 1.71604254580499,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2007",
+      "value": 1.75016458545192,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2006",
+      "value": 1.8695916362794,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2005",
+      "value": 1.87185802294835,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2004",
+      "value": 1.93850823279804,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2003",
+      "value": 1.99628893565843,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2002",
+      "value": 2.05936465293746,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2001",
+      "value": 1.98308624365796,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "2000",
+      "value": 1.83575968454189,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1999",
+      "value": 1.87146591412577,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1998",
+      "value": 1.65508069090551,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1997",
+      "value": 1.63265067284541,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1996",
+      "value": 1.65272667000964,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1995",
+      "value": 1.68623388691537,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1994",
+      "value": 1.69347959870483,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1993",
+      "value": 1.92806687404062,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1992",
+      "value": 2.44954206753443,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1991",
+      "value": 2.31124341155315,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "CN",
+        "value": "China"
+      },
+      "countryiso3code": "CHN",
+      "date": "1990",
+      "value": 2.45401611552735,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2020",
+      "value": 1.37427175481016,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2019",
+      "value": 1.26184145004044,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2018",
+      "value": 1.17054854477113,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2017",
+      "value": 1.15340372066259,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2016",
+      "value": 1.15123037317289,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2015",
+      "value": 1.13733842666332,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2014",
+      "value": 1.14994199690514,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2013",
+      "value": 1.18525790100841,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2012",
+      "value": 1.24167747904608,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2011",
+      "value": 1.20615033635783,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2010",
+      "value": 1.26682662611137,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2009",
+      "value": 1.31060407322149,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2008",
+      "value": 1.20903400366779,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2007",
+      "value": 1.17247176491769,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2006",
+      "value": 1.19930295839133,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2005",
+      "value": 1.06562970052135,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2004",
+      "value": 1.26895739640399,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2003",
+      "value": 1.31692486502826,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2002",
+      "value": 1.32795812092343,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2001",
+      "value": 1.3234383027941,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "2000",
+      "value": 1.35888303317903,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1999",
+      "value": 1.39507435456434,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1998",
+      "value": 1.39089478616645,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1997",
+      "value": 1.40930173264786,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1996",
+      "value": 1.46585845994395,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1995",
+      "value": 1.49502201427653,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1994",
+      "value": 1.55027643275389,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1993",
+      "value": 1.69353832263442,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1992",
+      "value": 1.86047994113579,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1991",
+      "value": 1.99783498818879,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "DE",
+        "value": "Germany"
+      },
+      "countryiso3code": "DEU",
+      "date": "1990",
+      "value": 2.51843270660831,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2020",
+      "value": 1.36664551701951,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2019",
+      "value": 1.23270491757212,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2018",
+      "value": 1.25433377164601,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2017",
+      "value": 1.23002910987775,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2016",
+      "value": 1.13713590926222,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2015",
+      "value": 1.2702320395662,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2014",
+      "value": 1.25391242368837,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2013",
+      "value": 1.27236040392798,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2012",
+      "value": 1.42363040003724,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2011",
+      "value": 1.33187655521014,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2010",
+      "value": 1.3873781239833,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2009",
+      "value": 1.35835383696039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2008",
+      "value": 1.36762048450666,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2007",
+      "value": 1.36310631227691,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2006",
+      "value": 1.37000746147478,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2005",
+      "value": 1.38717775355122,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2004",
+      "value": 1.43022117967926,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2003",
+      "value": 1.42254439300681,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2002",
+      "value": 1.45597370162444,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2001",
+      "value": 1.62958403293614,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "2000",
+      "value": 1.72551798839458,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1999",
+      "value": 1.75523458900652,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1998",
+      "value": 1.75731994886122,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1997",
+      "value": 1.72281567944182,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1996",
+      "value": 1.81443901615473,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1995",
+      "value": 1.91702239465122,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1994",
+      "value": 2.00133740218861,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1993",
+      "value": 2.0118717370405,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1992",
+      "value": 2.04280367601027,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1991",
+      "value": 2.12919223112803,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "ES",
+        "value": "Spain"
+      },
+      "countryiso3code": "ESP",
+      "date": "1990",
+      "value": 2.29330520898016,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2020",
+      "value": 1.99647774299432,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2019",
+      "value": 1.8364614707329,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2018",
+      "value": 1.84300872300244,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2017",
+      "value": 1.90864201234437,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2016",
+      "value": 1.91728236804142,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2015",
+      "value": 1.87225828127684,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2014",
+      "value": 1.86296143947269,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2013",
+      "value": 1.84987591828694,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2012",
+      "value": 1.87108059984757,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2011",
+      "value": 1.89140621361087,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2010",
+      "value": 1.96941935275241,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2009",
+      "value": 2.09814733452729,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2008",
+      "value": 1.89707589581907,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2007",
+      "value": 1.90752863357749,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2006",
+      "value": 1.97509829987374,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2005",
+      "value": 2.02370691892637,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2004",
+      "value": 2.10435083527246,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2003",
+      "value": 2.0956804128006,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2002",
+      "value": 2.04625799037992,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2001",
+      "value": 2.03069528996546,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "2000",
+      "value": 2.08501824480333,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1999",
+      "value": 2.17784297022174,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1998",
+      "value": 2.22620830652768,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1997",
+      "value": 2.37540965314127,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1996",
+      "value": 2.41447395059335,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1995",
+      "value": 2.49249618936836,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1994",
+      "value": 2.66037496035159,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1993",
+      "value": 2.68953480643636,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1992",
+      "value": 2.69066071063176,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1991",
+      "value": 2.81213643806721,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "FR",
+        "value": "France"
+      },
+      "countryiso3code": "FRA",
+      "date": "1990",
+      "value": 2.80526762706676,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2020",
+      "value": 2.80719387386131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2019",
+      "value": 2.5459982314359,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2018",
+      "value": 2.42428452604417,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2017",
+      "value": 2.53151136056791,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2016",
+      "value": 2.54315152114541,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2015",
+      "value": 2.45745006060163,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2014",
+      "value": 2.54398176462257,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2013",
+      "value": 2.5488248901417,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2012",
+      "value": 2.61816634758562,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2011",
+      "value": 2.70448222276966,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2010",
+      "value": 2.88946327164641,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2009",
+      "value": 3.12938472737472,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2008",
+      "value": 2.63146078124112,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2007",
+      "value": 2.47824652803557,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2006",
+      "value": 2.68038156022763,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2005",
+      "value": 2.91058750164482,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2004",
+      "value": 2.82875224798105,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2003",
+      "value": 2.67777693222748,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2002",
+      "value": 2.82686683045838,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2001",
+      "value": 2.9244355462896,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2000",
+      "value": 2.94892990622572,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1999",
+      "value": 2.95719564743412,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1998",
+      "value": 2.72731141679376,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1997",
+      "value": 2.64773242601716,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1996",
+      "value": 2.4727682254674,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1995",
+      "value": 2.57848357246069,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1994",
+      "value": 2.66467372708604,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1993",
+      "value": 2.82354224568723,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1992",
+      "value": 2.70483970561409,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1991",
+      "value": 2.90997432764267,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "IN",
+        "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "1990",
+      "value": 3.14621461029962,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2020",
+      "value": 3.48667909020303,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2019",
+      "value": 3.50584031595126,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2018",
+      "value": 3.58696176378502,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2017",
+      "value": 3.36444910317801,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2016",
+      "value": 3.20377671550622,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2015",
+      "value": 3.16298664508296,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2014",
+      "value": 3.09657969704779,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2013",
+      "value": 3.08802003540329,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2012",
+      "value": 3.09577353673779,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2011",
+      "value": 2.91924318438144,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2010",
+      "value": 3.04189326480607,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2009",
+      "value": 3.26522399322955,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2008",
+      "value": 3.45937100362745,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2007",
+      "value": 3.51198610011098,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2006",
+      "value": 3.64525520437771,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2005",
+      "value": 3.89701939256291,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2004",
+      "value": 3.95603411669147,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2003",
+      "value": 4.09142718735613,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2002",
+      "value": 4.07377016787657,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2001",
+      "value": 3.87893394479455,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "2000",
+      "value": 4.16872271381496,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1999",
+      "value": 5.18989926490607,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1998",
+      "value": 5.4150950442544,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1997",
+      "value": 5.6212164889017,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1996",
+      "value": 6.03716630506556,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1995",
+      "value": 5.82022528285793,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1994",
+      "value": 5.92354829296761,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1993",
+      "value": 6.42731262310377,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1992",
+      "value": 6.69818754925138,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1991",
+      "value": 6.57095278815428,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PK",
+        "value": "Pakistan"
+      },
+      "countryiso3code": "PAK",
+      "date": "1990",
+      "value": 6.52232023523122,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2020",
+      "value": 2.28748515617247,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2019",
+      "value": 1.97509539032691,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2018",
+      "value": 2.04480024979944,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2017",
+      "value": 1.90165998081495,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2016",
+      "value": 1.94921770662177,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2015",
+      "value": 2.1405458303192,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2014",
+      "value": 1.91903675982857,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2013",
+      "value": 1.79844993577184,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2012",
+      "value": 1.81467677038876,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2011",
+      "value": 1.80318361835199,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2010",
+      "value": 1.84785215509548,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2009",
+      "value": 1.79741622783841,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2008",
+      "value": 1.75213971068109,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2007",
+      "value": 2.00203282841042,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2006",
+      "value": 1.92075038034244,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2005",
+      "value": 1.92612986992008,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2004",
+      "value": 1.8732410064926,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2003",
+      "value": 1.90804203657513,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2002",
+      "value": 1.90063864932514,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2001",
+      "value": 1.90563800121799,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "2000",
+      "value": 1.83033658531361,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1999",
+      "value": 1.90113577122386,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1998",
+      "value": 2.01908131442398,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1997",
+      "value": 2.03130669657497,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1996",
+      "value": 1.96791940080864,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1995",
+      "value": 1.95550705469987,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1994",
+      "value": 2.27323210335054,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1993",
+      "value": 2.46918731544486,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1992",
+      "value": 2.23099944320713,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1991",
+      "value": 2.25165022520211,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "PL",
+        "value": "Poland"
+      },
+      "countryiso3code": "POL",
+      "date": "1990",
+      "value": 2.61248574350627,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2020",
+      "value": 4.17147890118067,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2019",
+      "value": 3.86033750437073,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2018",
+      "value": 3.71982243956434,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2017",
+      "value": 4.24899605173948,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2016",
+      "value": 5.42514770504505,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2015",
+      "value": 4.87151474680202,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2014",
+      "value": 4.11299297822323,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2013",
+      "value": 3.85404258314373,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2012",
+      "value": 3.68924043459907,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2011",
+      "value": 3.43304383760131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2010",
+      "value": 3.58508572012112,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2009",
+      "value": 3.92406340302834,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2008",
+      "value": 3.14948602002222,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2007",
+      "value": 3.1185420747754,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2006",
+      "value": 3.24635723405838,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2005",
+      "value": 3.33123723441659,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2004",
+      "value": 3.30035364660483,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2003",
+      "value": 3.67083808960104,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2002",
+      "value": 3.75627739108018,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2001",
+      "value": 3.54631922908818,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2000",
+      "value": 3.30702983667541,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1999",
+      "value": 3.07328792235108,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1998",
+      "value": 2.73264908865687,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1997",
+      "value": 4.03980929678188,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1996",
+      "value": 3.75655882080282,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1995",
+      "value": 3.78442996742671,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1994",
+      "value": 4.5237006553879,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1993",
+      "value": 4.18132464712269,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1992",
+      "value": 4.42703232125367,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1991",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "1990",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2020",
+      "value": 3.65051373404041,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2019",
+      "value": 3.412158459059,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2018",
+      "value": 3.30400061907828,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2017",
+      "value": 3.29772357145288,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2016",
+      "value": 3.40260246241072,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2015",
+      "value": 3.46449292564277,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2014",
+      "value": 3.67891817387645,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2013",
+      "value": 4.02370560438155,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2012",
+      "value": 4.4617099699335,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2011",
+      "value": 4.82244197600452,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2010",
+      "value": 4.90402300595835,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2009",
+      "value": 4.87576835879774,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2008",
+      "value": 4.44659552156261,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2007",
+      "value": 4.07335051467688,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2006",
+      "value": 4.04134230166038,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2005",
+      "value": 4.08923187524508,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2004",
+      "value": 4.01631273640692,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2003",
+      "value": 3.82716104473623,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2002",
+      "value": 3.44761809928778,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2001",
+      "value": 3.12380980266703,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "2000",
+      "value": 3.11224214697679,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1999",
+      "value": 3.08567678324746,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1998",
+      "value": 3.20155849896996,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1997",
+      "value": 3.40556224418855,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1996",
+      "value": 3.55498220635218,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1995",
+      "value": 3.8602457917389,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1994",
+      "value": 4.2152646751779,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1993",
+      "value": 4.60435029507644,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1992",
+      "value": 4.97046680768284,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1991",
+      "value": 4.88342939776313,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "MS.MIL.XPND.GD.ZS",
+        "value": "Military expenditure (% of GDP)"
+      },
+      "country": {
+        "id": "US",
+        "value": "United States"
+      },
+      "countryiso3code": "USA",
+      "date": "1990",
+      "value": 5.60517529438794,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    }
+  ]
+]
